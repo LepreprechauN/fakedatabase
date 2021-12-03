@@ -2,11 +2,13 @@
   {
     "id": 1,
     "body": "some comment",
-    "postId": 1
+    "title": "Important",
+    "date": "January 13"
   },
   {
     "id": 2,
-    "body": "some comment",
-    "postId": 1
+    "body": "potatoes, tomatoes, lettuce",
+    "title": "Shipping list",
+    "date": "November 29"
   }
 ]
